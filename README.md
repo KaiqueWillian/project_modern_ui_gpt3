@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Modern UI GPT-3
+
+ [Live](#https://gpt3br.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
