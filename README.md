@@ -1,4 +1,4 @@
-# Modern UI GPT-3
+# A simple project and modern UI GPT-3
 
  [Live](https://gpt3br.netlify.app/)
 
